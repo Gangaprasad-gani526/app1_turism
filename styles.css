@@ -45,6 +45,8 @@ h1{
   position: relative;
   transition: flex 0.3s ease-in 0.1s;
   border: 10px solid rgb(107, 113, 115);
+  margin-top: 100px;
+  margin-bottom: 10px;
 
 }
 
@@ -71,7 +73,7 @@ h1{
   margin-right: 10px;
 }
 .container{
-  padding: 50px;;
+  padding: 100px;
 }
 
 @media (max-width='480px') {
@@ -92,7 +94,3 @@ h1{
   flex: 5;
 }
 }
-
-
-
-
